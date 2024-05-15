@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Summarizer",
-    "description": "Summarize the content of the html page wit",
+    "description": "Summarize the content of the html page with input website URL",
     "version": "1.0",
     "action": {
       "default_popup": "index.html"
